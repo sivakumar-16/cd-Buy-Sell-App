@@ -5,10 +5,10 @@ https://github.com/sivakumar-16/cd-Buy-Sell-App.git.
 Downlod the Application and open terminal to put the command "npm install" it is use to install the node modules.
 Next you put the command "npm start". to run the project.
 # Technology Stack:
-Front End :
+### Front End :
 React.js
-BackEnd:
+### BackEnd:
 Node.js
-Database:
+### Database:
 MongoDB.
 
