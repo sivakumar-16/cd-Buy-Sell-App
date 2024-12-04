@@ -7,7 +7,8 @@ const { stringify } = require('querystring');
 app.use(express.json())
 app.use(cors())
 
-const url='mongodb://localhost:27017/BuySellApp'
+const url='' //put your url
+
 
 const connectDB= mongoose.connect(url).then(
     console.log("DB Connected")
